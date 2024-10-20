@@ -13,7 +13,7 @@ this project belongs to Dicoding submission on [Belajar Pengembangan Machine Lea
 ## Dataset
 
 I used the [Animal-10](https://www.kaggle.com/datasets/alessiocorrado99/animals10)
-dataset, which contains images from Animal pictures of 10 different categories. The data is split into training and test set (80:20).
+dataset, which contains images from Animal pictures of 10 different categories, but i only used 3 categories due to simple model complexity. The data is split into training and test set (80:20).
 
 ## Model Architecture
 
